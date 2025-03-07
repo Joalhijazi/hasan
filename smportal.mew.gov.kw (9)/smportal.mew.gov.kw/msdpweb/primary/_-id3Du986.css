@@ -1,0 +1,524 @@
+body {
+    direction: rtl
+}
+
+.radioBoxContainer label[for=happy] {
+    background: url("https://smportal.mew.gov.kw:443/msdpweb/primary/_-IJdhBzcBV") no-repeat -6px -4px
+}
+
+.radioBoxContainer label[for=neutral] {
+    background: url("https://smportal.mew.gov.kw:443/msdpweb/primary/_-IJdhBzcBV") no-repeat -71px -4px
+}
+
+.radioBoxContainer label[for=unhappy] {
+    background: url("https://smportal.mew.gov.kw:443/msdpweb/primary/_-IJdhBzcBV") no-repeat -138px -4px
+}
+
+.align_left,
+.module_mMainMenu,
+.module_mlogo,
+.mew_logo,
+.hdrAccountSelect>span,
+.hdrAccountSelect .currentToggle,
+.module_mLoginForm,
+.module_mGetApp,
+.module_mShortContent,
+.module_mRightSidebar,
+.column_1 {
+    float: right
+}
+
+.align_right,
+.module_language {
+    float: left
+}
+
+.module_mTopSearch,
+.module_language {
+    padding: 2px
+}
+
+.text_align_left {
+    text-align: right
+}
+
+.text_align_right,
+.section_mTopHeader {
+    text-align: left
+}
+
+.absolute_toggle_icon:after {
+    right: auto;
+    left: 20px
+}
+
+.right-10 {
+    left: 10px;
+    right: auto
+}
+
+.edit-icon {
+    left: 15px;
+    right: auto
+}
+
+.module_chat {
+    right: auto;
+    left: 0
+}
+
+.module_badge {
+    right: 0;
+    left: auto
+}
+
+.radio .checkbox-custom:checked+.checkbox-custom-label:after {
+    left: auto;
+    right: 0
+}
+
+.radio .checkbox-custom-label:before {
+    left: auto;
+    right: -6px
+}
+
+.elecIcon:before,
+.fwIcon:before,
+.swIcon:before,
+.twIcon:before,
+.dwIcon:before,
+.swpIcon:before,
+.mWater_icon:before,
+.phoneicon:before,
+.faxicon:before,
+.emailicon:before,
+.addressicon:before,
+.mFeedin_icon:before {
+    margin-right: 0;
+    margin-left: 10px;
+    float: right
+}
+
+.tabbs>ul {
+    direction: rtl
+}
+
+.tabbs>ul li {
+    padding-right: 0;
+    padding-left: 5px
+}
+
+.tabbs>ul li:nth-last-of-type(1) {
+    padding-left: 0
+}
+
+.multi-steps {
+    direction: rtl
+}
+
+.multi-steps>span:after {
+    left: auto;
+    right: 69%
+}
+
+.blocked_billAccount .blockedAccount {
+    left: auto;
+    right: 20px
+}
+
+table,
+.listStyleDot,
+.direction {
+    direction: rtl
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    right: auto;
+    left: 1px
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    left: auto;
+    right: 50%;
+    margin-left: 0;
+    margin-right: -12px
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    padding-left: 20px;
+    padding-right: 8px
+}
+
+.passHint:before {
+    left: auto;
+    right: 0
+}
+
+.section_mSidebar {
+    float: right
+}
+
+.section_mContent {
+    padding: 25px 10px 60px 0
+}
+
+.module_mSidebar {
+    padding: 25px 0 45px 10px
+}
+
+.sidebar_Link:before {
+    margin-left: 5px;
+    margin-right: 0;
+    float: right
+}
+
+.basicSearch {
+    background-position: left center
+}
+
+.notifcation_bell .notifcation_count {
+    right: auto;
+    left: 0
+}
+
+.checkbox-custom-label:before {
+    left: auto;
+    right: 3px
+}
+
+.timeline:before {
+    left: auto;
+    right: 0
+}
+
+.timeline .tipNumber {
+    left: auto;
+    right: -40px
+}
+
+.lineAfter:after {
+    right: auto;
+    left: 0
+}
+
+.blockIcon:before {
+    left: auto;
+    right: 20px
+}
+
+.plus-btn {
+    left: -40px;
+    right: auto
+}
+
+.mCollpaseClick:after {
+    left: 15px;
+    right: auto
+}
+
+.module_mShortContent {
+    margin-right: 0;
+    margin-left: 20px
+}
+
+.mCollpaseClick.collapseall:after {
+    right: auto;
+    left: -15px;
+    margin-left: 0;
+    margin-right: 5px
+}
+
+.search-list ul li .search_Link:before {
+    float: right
+}
+
+.search-list ul li .search_Link:after {
+    left: 25px;
+    right: auto
+}
+
+.searchbox-submit {
+    right: auto;
+    left: 23px
+}
+
+.module_mMainMenu.active {
+    right: auto;
+    left: 0
+}
+
+.module_mMainMenu .mMenuitem>a::before {
+    right: auto;
+    left: 8px
+}
+
+.radioBoxContainer .radioBoxLabel {
+    padding: 0 35px 0 0
+}
+
+.radioBoxContainer .radioBoxLabel:before {
+    right: 6px;
+    left: auto
+}
+
+.radioBoxContainer .radioBoxLabel:after {
+    right: 12px;
+    left: auto
+}
+
+.chat {
+    background: url("https://smportal.mew.gov.kw:443/msdpweb/primary/_-IAdAGfHrW") no-repeat -260px -231px
+}
+
+.block_billAccount:before {
+    right: 0;
+    left: auto
+}
+
+.blockAccount_alert {
+    right: 0;
+    left: auto;
+    padding-right: 30px
+}
+
+.emergency_billAccount span.emergency {
+    right: auto;
+    left: 10px
+}
+
+input.datepicker+span {
+    left: 10px;
+    right: auto
+}
+
+.email-bill {
+    margin-top: -15px
+}
+
+.email-bill.ts-2 {
+    margin-top: 28px
+}
+
+.slabTile {
+    float: right
+}
+
+.info_close_btn {
+    right: auto;
+    left: -20px
+}
+
+.feedlogo {
+    left: auto;
+    right: 0
+}
+
+.absolute_toggle_icon_grey:after {
+    right: auto;
+    left: 20px
+}
+
+.placeholderIcon .input,
+.placeholderIcon input {
+    padding-left: 10px;
+    padding-right: 25px
+}
+
+.favStores {
+    right: auto;
+    left: -28px
+}
+
+.passValidator {
+    left: auto;
+    right: 104%
+}
+
+.datePickIcon {
+    left: 10px;
+    right: auto
+}
+
+.plus-btn.updateUi {
+    left: -20px;
+    right: auto
+}
+
+.locationFilerIcon {
+    background-position: 5% 50%
+}
+
+.scroll-arrows-right:before {
+    background-position: 4px -2px;
+    left: 0;
+    right: auto
+}
+
+.scroll-arrows-left:before {
+    background-position: -10px -2px;
+    left: 0;
+    right: auto
+}
+
+.styled_radio {
+    position: relative
+}
+
+.styled_radio .styled_radio_label {
+    padding: 15px 40px 15px 65px
+}
+
+.mAdvertise_content {
+    background-position: right center
+}
+
+@media only screen and (max-width: 1080px) {
+    table .circColr:before {
+        right: 72px;
+        left: auto
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .consumption_val_d {
+        float: right
+    }
+    table .circColr:before {
+        right: 60px;
+        left: auto
+    }
+    .module_mMainMenu {
+        left: -25px;
+        right: auto
+    }
+    .module_mMainMenu.active {
+        left: 0;
+        right: auto
+    }
+    .module_mMainMenu .mMenuitem>a::before {
+        left: 8px;
+        right: auto
+    }
+    .section_mContent {
+        padding: 25px 0 60px 0
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    table .circColr:before {
+        right: 60px;
+        left: auto
+    }
+    #storeLocationPage .tabbs>ul li {
+        width: 50%;
+        display: inline-block;
+        padding-top: 5px
+    }
+    #storeLocationPage .tabbs>ul li:nth-last-of-type(1) {
+        padding-left: 5px;
+        padding-right: 0
+    }
+}
+
+@media only screen and (max-width: 590px) {
+    .module_mFooter .footer_menu .menu_list:nth-child(2) h4::before,
+    .module_mFooter .footer_menu .menu_list:nth-child(2) h4::after {
+        right: -10px;
+        left: auto
+    }
+    .module_mFooter .footer_menu .menu_list:nth-child(2) h4::after {
+        left: -10px;
+        right: auto
+    }
+    table .circColr:before {
+        right: 44px;
+        left: auto
+    }
+    .mAmount a.mCollpaseClick.collapseall {
+        margin-right: 5px;
+        margin-left: 0
+    }
+    .section_mAlertContent {
+        padding: 30px 10px 30px 20px
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    table .circColr:before {
+        right: 24px;
+        left: auto
+    }
+    .email-bill {
+        margin: 10px 0
+    }
+    #storeLocationPage .mInnerForm {
+        padding: 20px 15px 20px 30px
+    }
+    .dropdown_width .mCollpaseClick span {
+        margin-right: 0 !important;
+        margin-left: 5px !important
+    }
+    .mCollpaseClick:after {
+        left: 2px;
+        right: auto
+    }
+    .mCollapseContent ul li span {
+        margin-left: 10px;
+        margin-right: 0
+    }
+    .mAmount_divider span.width-20 {
+        float: left
+    }
+    .login-android-play,
+    .login-google-play {
+        float: none;
+        display: block;
+        margin: 2px auto
+    }
+    .mAmount a.mCollpaseClick.collapseall {
+        margin-right: 0;
+        margin-left: 10px
+    }
+    .userInfo a {
+        transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -moz-transform: rotate(180deg)
+    }
+}
+
+.hide {
+    display: none
+}
+
+.updatedUiSelect .label_select_account {
+    float: none
+}
+
+.updatedUiSelect .data_select_account {
+    float: none
+}
+
+.mCS-dir-rtl>.mCSB_inside>.mCSB_container {
+    margin-right: 0;
+    margin-left: 16px
+}
+
+.styled_radio {
+    position: relative
+}
+
+.styled_radio .styled_radio_label:before {
+    left: auto;
+    right: 5px
+}
+
+.styled_radio .styled_radio_label:after {
+    left: auto;
+    right: 8px
+}
+
+.inner_select_toggle {
+    right: auto;
+    left: 1px
+}
